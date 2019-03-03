@@ -7,9 +7,8 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            Alter <code>src/App.js</code> and save to reload it automatically in the browser.
           </p>
           <a
             className="App-link"
@@ -17,7 +16,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn about resolving merge conflicts
           </a>
         </header>
       </div>
