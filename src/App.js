@@ -7,9 +7,8 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo-for-app" />
           <p>
-              ......................................
+            Alter <code>src/App.js</code> and save to reload it automatically in the browser.
           </p>
           <a
             className="App-link"
